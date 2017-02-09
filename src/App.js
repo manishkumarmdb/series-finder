@@ -47,6 +47,7 @@ export default class App extends Component {
     }
     if(nextItem !== item) {
       this.onGameOver();
+      alert("Game is over!!! \nYour Score is " + score);
     }
   }
 
