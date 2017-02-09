@@ -1,9 +1,9 @@
 Series Finder
 =====================
 
-## Author: Manish Kumar
-## Github: https://github.com/manishkumarmdb
-## Linkedin: https://www.linkedin.com/in/manish-kumar-ba768550/
+#### Author: Manish Kumar
+#### Github: https://github.com/manishkumarmdb
+#### Linkedin: https://www.linkedin.com/in/manish-kumar-ba768550/
 
 ### About the App
 
