@@ -24,7 +24,6 @@ Series Finder
 8) if he wants to play again then after clicking on reset button all the numbers inside the blocks should be rearranged. And let the player play a new game.
 
 ### Usage
-
 ```
 git clone https://github.com/manishkumarmdb/series-finder.git
 cd series-finder/
